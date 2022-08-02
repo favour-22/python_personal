@@ -1,1 +1,1 @@
-All about python programming (My ersonal learning ) 
+All about python programming (My personal learning ) 
